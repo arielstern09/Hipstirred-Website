@@ -8,7 +8,7 @@ session_start();
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Thank You | Hipstirred</title>
 	<link href="https://fonts.googleapis.com/css?family=Abel|Rancho" rel="stylesheet">
-	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="css/main.css">
 </head>
 <body class="thank-you">
 	<div class="wrapper">
